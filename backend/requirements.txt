@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+python-dotenv
+
+# Geo/Data analysis
+geopandas
+pandas
+esda
+libpysal

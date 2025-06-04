@@ -1,6 +1,0 @@
-geopandas
-pandas
-sqlalchemy
-psycopg2-binary
-esda
-libpysal
